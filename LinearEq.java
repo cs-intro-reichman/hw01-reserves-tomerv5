@@ -5,6 +5,6 @@ public class LinearEq {
         double c = Double.parseDouble(args[2]);
         double solution = (c-b)/a;
         System.out.println(a + "*x + " + b + " = " + c);
-        System.out.println("X = " + solution);
+        System.out.println("x = " + solution);
     }
 }
